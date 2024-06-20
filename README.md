@@ -32,9 +32,12 @@ change the data_path to your data location
 
 ├── requirements.txt       # List of dependencies python packages
 
+
 ├── scripts                         # Folder containing scripts and notebooks
+ 
 │   ├── Duke_D2_git.ipynb           # Jupyter notebook for Duke_D2 analysis
 
+    
 │   ├── Duke_D2_reduce.ipynb        # Jupyter notebook for reducing Duke_D2, which is the example running code in code ocean platform
 
 │   ├── KDDCup_D3_git.ipynb         # Jupyter notebook for KDDCup_D3 analysis
@@ -43,7 +46,7 @@ change the data_path to your data location
 
 │   ├── NodeTransformerExtremeTrees.py  # Python helperscript for extreme trees transformation
 
-│   └── Portugal_D1_git.ipynb       # Jupyter notebook for Portugal_D1 analysis
+│   ├──Portugal_D1_git.ipynb       # Jupyter notebook for Portugal_D1 analysis
 
 └── data                   # Folder containing data files          
  
