@@ -25,9 +25,15 @@ source env/bin/activate
 # Install the required packages
 pip install -r requirements.txt
 
+change the data_path to your data location
+
+
 ├── README.md              # This file
+
 ├── requirements.txt       # List of dependencies python packages
+
 ├── script                 # The fold contains all scripts
+
 └── data                   # Folder containing data files          
  
 
