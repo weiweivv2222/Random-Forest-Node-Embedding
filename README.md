@@ -6,6 +6,8 @@ In this study, we developped a novel approach, called random forests node embedd
 shows that using embeddings calculated on a random forest is an effective method of extracting automated features for classification. This  The  novelty of  this algorithm stands in  the usage of the structure of the decision boundaries  calculated by the decision trees as additional features in the  form  of embeddings that can be used  to perform  machine learning  tasks. Furthermore, this approach makes the classification more flexible  task  more flexible than with a  standard  random forest  algorithm as one can now use any algorithm
 in combination with random forests. The other significant contribution the features  extracted by RFNE. The second  main  contribution of this paper is to show that by using the latent space features calculated with the embedding embeddings, we can define segmentation rules concerning a population of interest. The consequence of using a random forest to calculate the embeddings is that the nodes of the forest have also a representation in the latent space. Therefore, if we take an interesting question as our dependent variable for a statistical test.
 
+You can find the full published article link: https://www.sciencedirect.com/science/article/pii/S095741742401488X
+
 # Clone the repo:
 
 git clone https://github.com/weiweivv2222/Random-Forest-Node-Embedding.git
